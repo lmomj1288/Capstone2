@@ -55,3 +55,7 @@ while True:
     
 cap.release()
 cv2.destroyAllWindows()
+
+
+# github upload practice 
+# Chonnam National University 
